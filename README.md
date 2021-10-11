@@ -12,7 +12,7 @@
 - I'm a front-end developer
 - I'm interested in front-end engineering and NodeJS
 - worked in Tencent & Sensetime
-- Contect: liguanliang1007@163.com
+- Contact: liguanliang1007@163.com
 
 <!--
 **crossskyLi/crossskyli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
